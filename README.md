@@ -22,3 +22,13 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+### Push the local repo to git remote repo git commands
+
+- `git remote add upstream <your_repo_url>`
+- `git push upstream master`
+- `git push -f upstream master`
+
+`
